@@ -37,7 +37,8 @@ void filldatabase7(char *database[], int spriteArray[]) {
 	database[157] = "0157 - Max Revive"; spriteArray[157] = 0;
 	database[158] = "0158 - Masterball"; spriteArray[158] = 0;
 	database[202] = "0202 - SM Revival Herb"; spriteArray[202] = 0;
-	database[210] = "Placeholder";
+	database[205] = "0205 - SM Choice Band/Scarf"; spriteArray[205] = 0;
+	database[210] = "0210 - Gold Bottle Cap"; spriteArray[210] = 0;
 	database[518] = "0518 - Heracronite"; spriteArray[518] = 0;
 	database[527] = "0527 - 100 Potions"; spriteArray[527] = 0;
 	database[1022] = "1022 - 100 Potions"; spriteArray[1022] = 0;
@@ -272,6 +273,7 @@ void filldatabase7(char *database[], int spriteArray[]) {
 	database[1074] = "1074 - KOR Tyranitar"; spriteArray[1074] = 248;
 	database[1075] = "1075 - KOR Mawile"; spriteArray[1075] = 303;
 	database[1076] = "1076 - KOR Victini"; spriteArray[1076] = 494;
+	database[1078] = "1078 - KOR Volcanion"; spriteArray[1078] = 721;
 	database[1501] = "1501 - HA Torchic"; spriteArray[1501] = 255;
 	database[1503] = "1503 - Fancy Vivillon"; spriteArray[1503] = 666;
 	database[1504] = "1504 - Shiny Beldum"; spriteArray[1504] = 374;
@@ -536,6 +538,7 @@ void filldatabase6(char *database[], int spriteArray[]) {
 	database[1074] = "1074 - KOR Tyranitar"; spriteArray[1074] = 248;
 	database[1075] = "1075 - KOR Mawile"; spriteArray[1075] = 303;
 	database[1076] = "1076 - KOR Victini"; spriteArray[1076] = 494;
+	database[1078] = "1078 - KOR Volcanion"; spriteArray[1078] = 721;
 	database[1501] = "1501 - HA Torchic"; spriteArray[1501] = 255;
 	database[1503] = "1503 - Fancy Vivillon"; spriteArray[1503] = 666;
 	database[1504] = "1504 - Shiny Beldum"; spriteArray[1504] = 374;
